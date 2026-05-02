@@ -1,8 +1,4 @@
-# AffordMed Backend Assessment
-
-## Candidate Details
-- Name: Dhruv Patel
-- Roll Number: RA2311003020814
+# Backend Assessment
 
 ## Features Implemented
 - Logging Middleware (API-based)
